@@ -18,4 +18,12 @@ You will be able to view the status of your order in "your profile" / Parts Mana
 
 It will take about a week to arrive, you can continue on ordering the parts when the status of the order is "Complete"
 
+Finally you can order the board!
 
+1) Log in and click on "order now"
+2) Upload the included gerber.zip file
+3) make sure "2 layers" are selected
+4) select "PCB assembly" then click next
+6) upload the included BOM and CPL files
+7) Make sure 11 parts are detected and 11 parts are confirmed
+8) 
