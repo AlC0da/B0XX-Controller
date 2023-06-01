@@ -38,3 +38,6 @@ It will take about a week to arrive, you can continue on ordering the parts when
 3) Windows should recognize it as a storage device and automatically open the unit
 4) drag and drop uf2 file onto storage device and it will automatically eject (Haystack firmware recommended: https://github.com/JonnyHaystack/HayBox)
 
+![Rectangle Schematic](https://github.com/AlC0da/Rectangle-Controller/assets/97121247/e8f9ea95-e831-4cd0-a92c-aaa7ef259994)
+
+![Rectangle PCB](https://github.com/AlC0da/Rectangle-Controller/assets/97121247/13c4cdab-edb6-4dd9-ad49-86d03f13b97f)
