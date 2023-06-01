@@ -15,3 +15,7 @@ First you will need to preorder some components because JLCPCB does not keep the
 6) Select the part and checkout
 
 You will be able to view the status of your order in "your profile" / Parts Manager / Order Parts / Parts Order History
+
+It will take about a week to arrive, you can continue on ordering the parts when the status of the order is "Complete"
+
+
