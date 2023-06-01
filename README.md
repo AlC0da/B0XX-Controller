@@ -1,9 +1,11 @@
 # B0XX-Controller
 Uses the RP2040 to emulate a B0XX style controller in a smaller package.
 
-NOTE: JLCPCB minium order is 5 boards
+REQUIRES EXTERNIAL POWER SUPPLY (3.3V) TO PROGRAM
 
 JLCPCB ordering instructions:
+
+NOTE: JLCPCB minium order is 5 boards
 
 First you will need to preorder some components because JLCPCB does not keep them in stock and sources them from other companies.
 
