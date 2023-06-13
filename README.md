@@ -1,5 +1,5 @@
 # Rectangle-Controller
-Uses the RP2040 to emulate a Rectangle style controller in a smaller package.
+Uses the RP2040 to emulate a Rectangle style controller in a smaller package. This device only uses the 3.3V line to power.
 
 REQUIRES EXTERNIAL POWER SUPPLY (3.3V) TO PROGRAM
 
