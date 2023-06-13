@@ -34,7 +34,7 @@ It will take about a week to arrive, you can continue on ordering the parts when
   Programming the Board:
 
 1) Plug in USB-C into computer
-2) Power the device with 3.3V through the 3.3V pin out at the bottom of the board
+2) Power the device with 3.3V through the 3.3V pin out at the bottom of the board (don't forget to connect ground to one of the 4 ground pins)
 3) Windows should recognize it as a storage device and automatically open the unit
 4) drag and drop uf2 file onto storage device and it will automatically eject (Haystack firmware recommended: https://github.com/JonnyHaystack/HayBox)
 
